@@ -129,7 +129,7 @@ export default function Footer() {
             <div className="col-xl-6 col-lg-6 text-center text-lg-left">
               <div className="copyright-text text-center">
                 <p className="text-center">
-                  Copyright &copy; 2024, All Right Reserved By{" "}
+                  Copyright &copy; 2024, All Right Reserved By
                   <Link to="https://linktr.ee/abubakarnangri">
                     Abu Bakar Siddique
                   </Link>
